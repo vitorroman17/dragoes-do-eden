@@ -10,5 +10,96 @@
   <docTitle>
     <text>Dragões do Éden</text>
   </docTitle>
-  <navMap/>
+  <navMap>
+    <navPoint id="navpoint-1" playOrder="1">
+      <navLabel>
+        <text>Capa</text>
+      </navLabel>
+      <content src="titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-2" playOrder="2">
+      <navLabel>
+        <text>OS DRAGÕES DO ÉDEN</text>
+      </navLabel>
+      <content src="part0000.html"/>
+    </navPoint>
+    <navPoint id="navpoint-3" playOrder="3">
+      <navLabel>
+        <text>Sumário</text>
+      </navLabel>
+      <content src="toc.xhtml"/>
+    </navPoint>
+    <navPoint id="navpoint-4" playOrder="4">
+      <navLabel>
+        <text>Introdução</text>
+      </navLabel>
+      <content src="part0001.html"/>
+    </navPoint>
+    <navPoint id="navpoint-5" playOrder="5">
+      <navLabel>
+        <text>I. O calendário cósmico</text>
+      </navLabel>
+      <content src="part0002.html"/>
+    </navPoint>
+    <navPoint id="navpoint-6" playOrder="6">
+      <navLabel>
+        <text>II. Genes e cérebros</text>
+      </navLabel>
+      <content src="part0003.html#toc_1"/>
+    </navPoint>
+    <navPoint id="navpoint-7" playOrder="7">
+      <navLabel>
+        <text>III. O cérebro e a carroça</text>
+      </navLabel>
+      <content src="part0004.html#toc_1"/>
+    </navPoint>
+    <navPoint id="navpoint-8" playOrder="8">
+      <navLabel>
+        <text>IV. O Éden, uma metáfora: a evolução do homem</text>
+      </navLabel>
+      <content src="part0005.html#toc_1"/>
+    </navPoint>
+    <navPoint id="navpoint-9" playOrder="9">
+      <navLabel>
+        <text>V. As abstrações das feras</text>
+      </navLabel>
+      <content src="part0006.html"/>
+    </navPoint>
+    <navPoint id="navpoint-10" playOrder="10">
+      <navLabel>
+        <text>VI. Os contos do Éden sombrio</text>
+      </navLabel>
+      <content src="part0007.html"/>
+    </navPoint>
+    <navPoint id="navpoint-11" playOrder="11">
+      <navLabel>
+        <text>VII. Os amantes e os loucos</text>
+      </navLabel>
+      <content src="part0008.html"/>
+    </navPoint>
+    <navPoint id="navpoint-12" playOrder="12">
+      <navLabel>
+        <text>VIII. A futura evolução do cérebro</text>
+      </navLabel>
+      <content src="part0009.html"/>
+    </navPoint>
+    <navPoint id="navpoint-13" playOrder="13">
+      <navLabel>
+        <text>IX. O conhecimento é nosso destino: inteligência</text>
+      </navLabel>
+      <content src="part0010.html"/>
+    </navPoint>
+    <navPoint id="navpoint-14" playOrder="14">
+      <navLabel>
+        <text>Bibliografia</text>
+      </navLabel>
+      <content src="bibliografia.html#toc_6"/>
+    </navPoint>
+    <navPoint id="navpoint-15" playOrder="15">
+      <navLabel>
+        <text>Notas</text>
+      </navLabel>
+      <content src="rodape.html"/>
+    </navPoint>
+  </navMap>
 </ncx>
