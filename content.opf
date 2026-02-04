@@ -1,0 +1,119 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Dragões do Éden</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Sagan, Carl">Carl Sagan</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">6236ff8b-ecec-49d1-bd30-d3ecedca78f6</dc:identifier>
+    <dc:date>2026-01-29T23:23:59+00:00</dc:date>
+    <dc:language>pt</dc:language>
+    <dc:identifier opf:scheme="calibre">6236ff8b-ecec-49d1-bd30-d3ecedca78f6</dc:identifier>
+    <dc:identifier opf:scheme="MOBI-ASIN">d5915f7a-2a9b-499e-b4bf-80839021f0d1</dc:identifier>
+    <meta name="calibre:timestamp" content="2026-01-29T23:25:51+00:00"/>
+    <meta name="calibre:title_sort" content="Dragões do Éden"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-1" href="part0000.html" media-type="application/xhtml+xml"/>
+    <item id="id-73" href="toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-2" href="part0001.html" media-type="application/xhtml+xml"/>
+    <item id="id-3" href="part0002.html" media-type="application/xhtml+xml"/>
+    <item id="id-4" href="part0003.html" media-type="application/xhtml+xml"/>
+    <item id="id-5" href="part0004.html" media-type="application/xhtml+xml"/>
+    <item id="id-6" href="part0005.html" media-type="application/xhtml+xml"/>
+    <item id="id-7" href="part0006.html" media-type="application/xhtml+xml"/>
+    <item id="id-8" href="part0007.html" media-type="application/xhtml+xml"/>
+    <item id="id-9" href="part0008.html" media-type="application/xhtml+xml"/>
+    <item id="id-10" href="part0009.html" media-type="application/xhtml+xml"/>
+    <item id="id-71" href="part0010.html" media-type="application/xhtml+xml"/>
+    <item id="id" href="bibliografia.html" media-type="application/xhtml+xml"/>
+    <item id="id-72" href="rodape.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="id-11" href="cover.jpeg" media-type="image/jpeg"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item id="id-74" href="Dragoes_eden-0001.png" media-type="image/png"/>
+    <item id="id-75" href="Dragoes_eden-0002.png" media-type="image/png"/>
+    <item id="id-12" href="dropped_image-1.png" media-type="image/png"/>
+    <item id="id-13" href="dropped_image.png" media-type="image/png"/>
+    <item id="id-14" href="index-1_1.jpg" media-type="image/jpeg"/>
+    <item id="id-15" href="index-1_2.jpg" media-type="image/jpeg"/>
+    <item id="id-16" href="index-1_3.jpg" media-type="image/jpeg"/>
+    <item id="id-17" href="index-1_4.jpg" media-type="image/jpeg"/>
+    <item id="id-52" href="index-101_1.jpg" media-type="image/jpeg"/>
+    <item id="id-53" href="index-102_1.jpg" media-type="image/jpeg"/>
+    <item id="id-54" href="index-103_1.jpg" media-type="image/jpeg"/>
+    <item id="id-55" href="index-103_2.jpg" media-type="image/jpeg"/>
+    <item id="id-56" href="index-104_1.jpg" media-type="image/jpeg"/>
+    <item id="id-57" href="index-113_1.jpg" media-type="image/jpeg"/>
+    <item id="id-58" href="index-120_1.jpg" media-type="image/jpeg"/>
+    <item id="id-59" href="index-121_1.jpg" media-type="image/jpeg"/>
+    <item id="id-60" href="index-122_1.png" media-type="image/png"/>
+    <item id="id-61" href="index-134_1.jpg" media-type="image/jpeg"/>
+    <item id="id-62" href="index-135_1.jpg" media-type="image/jpeg"/>
+    <item id="id-63" href="index-136_1.jpg" media-type="image/jpeg"/>
+    <item id="id-64" href="index-139_1.jpg" media-type="image/jpeg"/>
+    <item id="id-65" href="index-141_1.jpg" media-type="image/jpeg"/>
+    <item id="id-66" href="index-144_1.jpg" media-type="image/jpeg"/>
+    <item id="id-67" href="index-146_1.jpg" media-type="image/jpeg"/>
+    <item id="id-68" href="index-164_1.jpg" media-type="image/jpeg"/>
+    <item id="id-18" href="index-22_1.jpg" media-type="image/jpeg"/>
+    <item id="id-19" href="index-25_1.jpg" media-type="image/jpeg"/>
+    <item id="id-20" href="index-30_1.jpg" media-type="image/jpeg"/>
+    <item id="id-21" href="index-33_1.jpg" media-type="image/jpeg"/>
+    <item id="id-22" href="index-37_1.jpg" media-type="image/jpeg"/>
+    <item id="id-23" href="index-37_2.jpg" media-type="image/jpeg"/>
+    <item id="id-24" href="index-38_1.jpg" media-type="image/jpeg"/>
+    <item id="id-25" href="index-39.png" media-type="image/png"/>
+    <item id="id-26" href="index-41_1.jpg" media-type="image/jpeg"/>
+    <item id="id-27" href="index-41_2.jpg" media-type="image/jpeg"/>
+    <item id="id-28" href="index-44_1.jpg" media-type="image/jpeg"/>
+    <item id="id-29" href="index-46_1.png" media-type="image/png"/>
+    <item id="id-30" href="index-47_1.png" media-type="image/png"/>
+    <item id="id-31" href="index-48.png" media-type="image/png"/>
+    <item id="id-32" href="index-52_1.jpg" media-type="image/jpeg"/>
+    <item id="id-33" href="index-53_1.jpg" media-type="image/jpeg"/>
+    <item id="id-34" href="index-54_1.jpg" media-type="image/jpeg"/>
+    <item id="id-35" href="index-56_1.jpg" media-type="image/jpeg"/>
+    <item id="id-36" href="index-58_1.jpg" media-type="image/jpeg"/>
+    <item id="id-37" href="index-60_1.jpg" media-type="image/jpeg"/>
+    <item id="id-38" href="index-61_1.jpg" media-type="image/jpeg"/>
+    <item id="id-39" href="index-61_2.jpg" media-type="image/jpeg"/>
+    <item id="id-40" href="index-66_1.jpg" media-type="image/jpeg"/>
+    <item id="id-41" href="index-69_1.jpg" media-type="image/jpeg"/>
+    <item id="id-42" href="index-70_1.jpg" media-type="image/jpeg"/>
+    <item id="id-43" href="index-72_1.jpg" media-type="image/jpeg"/>
+    <item id="id-44" href="index-75_1.jpg" media-type="image/jpeg"/>
+    <item id="id-45" href="index-81_1.png" media-type="image/png"/>
+    <item id="id-46" href="index-84_1.jpg" media-type="image/jpeg"/>
+    <item id="id-47" href="index-86_1.jpg" media-type="image/jpeg"/>
+    <item id="id-48" href="index-87_1.jpg" media-type="image/jpeg"/>
+    <item id="id-49" href="index-88_1.jpg" media-type="image/jpeg"/>
+    <item id="id-50" href="index-90_1.jpg" media-type="image/jpeg"/>
+    <item id="id-51" href="index-90_2.jpg" media-type="image/jpeg"/>
+    <item id="id-69" href="Screenshot_8.png" media-type="image/png"/>
+    <item id="id-70" href="Screenshot_9.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id-1"/>
+    <itemref idref="id-73"/>
+    <itemref idref="id-2"/>
+    <itemref idref="id-3"/>
+    <itemref idref="id-4"/>
+    <itemref idref="id-5"/>
+    <itemref idref="id-6"/>
+    <itemref idref="id-7"/>
+    <itemref idref="id-8"/>
+    <itemref idref="id-9"/>
+    <itemref idref="id-10"/>
+    <itemref idref="id-71"/>
+    <itemref idref="id"/>
+    <itemref idref="id-72"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>
