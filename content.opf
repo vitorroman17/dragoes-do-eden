@@ -1,22 +1,31 @@
 <?xml version="1.0"  encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
-  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uuid_id" xml:lang="pt">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>Dragões do Éden</dc:title>
-    <dc:creator opf:role="aut" opf:file-as="Sagan, Carl">Carl Sagan</dc:creator>
-    <dc:contributor opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
-    <dc:identifier id="uuid_id" opf:scheme="uuid">6236ff8b-ecec-49d1-bd30-d3ecedca78f6</dc:identifier>
-    <dc:date>2026-01-29T23:23:59+00:00</dc:date>
+    <dc:creator id="creator">Carl Sagan</dc:creator>
+    <meta refines="#creator" property="file-as">Sagan, Carl</meta>
+    <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
+    <dc:identifier id="uuid_id">6236ff8b-ecec-49d1-bd30-d3ecedca78f6</dc:identifier>
+    <dc:date>2026-01-29T23:23:59Z</dc:date>
     <dc:language>pt</dc:language>
-    <dc:identifier opf:scheme="calibre">6236ff8b-ecec-49d1-bd30-d3ecedca78f6</dc:identifier>
-    <dc:identifier opf:scheme="MOBI-ASIN">d5915f7a-2a9b-499e-b4bf-80839021f0d1</dc:identifier>
-    <meta name="calibre:timestamp" content="2026-01-29T23:25:51+00:00"/>
-    <meta name="calibre:title_sort" content="Dragões do Éden"/>
+    <meta property="dcterms:modified">2026-02-04T00:00:00Z</meta>
+    
+    <!-- Acessibilidade -->
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilityFeature">readingOrder</meta>
+    <meta property="schema:accessibilityFeature">alternativeText</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+    
+    <!-- Configurações de renderização -->
+    <meta property="rendition:layout">reflowable</meta>
+    <meta property="rendition:orientation">auto</meta>
+    <meta name="primary-writing-mode" content="horizontal-tb"/>
     <meta name="cover" content="cover"/>
   </metadata>
   <manifest>
     <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
     <item id="id-1" href="part0000.html" media-type="application/xhtml+xml"/>
-    <item id="id-73" href="toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-73" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
     <item id="id-2" href="part0001.html" media-type="application/xhtml+xml"/>
     <item id="id-3" href="part0002.html" media-type="application/xhtml+xml"/>
     <item id="id-4" href="part0003.html" media-type="application/xhtml+xml"/>
@@ -114,6 +123,7 @@
     <itemref idref="id-72"/>
   </spine>
   <guide>
-    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+    <reference type="cover" href="titlepage.xhtml" title="Capa"/>
+    <reference type="text" href="part0003.html" title="Início do Conteúdo"/>
   </guide>
 </package>
