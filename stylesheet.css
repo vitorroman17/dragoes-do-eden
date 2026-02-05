@@ -1,7 +1,7 @@
 .author {
-  display: block;
-  margin: 1em 0;
-  text-align: left;
+  /* Usar APENAS para assinaturas de epígrafes */
+  font-style: normal;
+  text-align: right;
 }
 .calibre {
   display: block;
@@ -358,6 +358,28 @@
   display: block;
   text-align: center;
   margin: 0;
+}
+
+/* Parágrafos de corpo com recuo */
+.body-text {
+  display: block;
+  text-align: justify;
+  text-indent: 1.5em;
+  margin: 0 0 0.5em 0;
+  line-height: 1.6;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
+/* Primeiro parágrafo sem recuo */
+.body-text-first {
+  display: block;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0 0.5em 0;
+  line-height: 1.6;
+  hyphens: auto;
+  -webkit-hyphens: auto;
 }
 
 /* Parágrafos de texto com recuo */
