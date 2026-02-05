@@ -2,6 +2,17 @@
   display: block;
   margin: 1em 0;
   text-align: left;
+  font-style: italic;
+}
+.body-text {
+  display: block;
+  text-align: justify;
+  text-indent: 1.5em;
+  margin: 0.5em 0;
+  line-height: 1.6;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
 }
 .calibre {
   display: block;

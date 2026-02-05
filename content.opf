@@ -1,5 +1,5 @@
 <?xml version="1.0"  encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uuid_id" xml:lang="pt">
+<package xmlns="http://www.idpf.org/2007/opf" version="3.3" unique-identifier="uuid_id" xml:lang="pt">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>Dragões do Éden</dc:title>
     <dc:creator id="creator">Carl Sagan</dc:creator>
@@ -8,7 +8,7 @@
     <dc:identifier id="uuid_id">6236ff8b-ecec-49d1-bd30-d3ecedca78f6</dc:identifier>
     <dc:date>2026-01-29T23:23:59Z</dc:date>
     <dc:language>pt</dc:language>
-    <meta property="dcterms:modified">2026-02-04T00:00:00Z</meta>
+    <meta property="dcterms:modified">2026-02-05T03:19:00Z</meta>
     
     <!-- Acessibilidade -->
     <meta property="schema:accessibilityFeature">structuralNavigation</meta>
